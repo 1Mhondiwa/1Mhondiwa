@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tapiwanashe+Mhondiwa+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;I+build+systems+that+actually+scale;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Go)](https://hussledigital.co.za)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Tapiwanashe+Mhondiwa+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;I+build+systems+that+actually+scale;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Go)](https://hussledigital.co.za)
 
 <p align="center">
   <a href="https://hussledigital.co.za">
