@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1Mhondiwa&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Mhondiwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Mhondiwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
